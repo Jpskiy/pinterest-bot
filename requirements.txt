@@ -1,0 +1,6 @@
+fastapi
+celery
+redis
+playwright
+psycopg2
+python-dotenv
